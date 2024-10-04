@@ -1,4 +1,4 @@
-Quadruple Aspect-Based Sentiment Analysis (Quad-ABSA) for Saudi Hospitality Dataset
+**Quadruple Aspect-Based Sentiment Analysis (Quad-ABSA) for Saudi Hospitality Dataset**
 This repository contains data and scripts used in the study of quadruple aspect-based sentiment analysis (Quad-ABSA) for customer reviews in the Saudi hospitality sector. The data were collected from Booking.com between September 6th, 2019, and September 6th, 2022, focusing on reviews of accommodations in Saudi Arabia. The aim of this project is to provide a comprehensive dataset that captures customer sentiments, aspects, opinions, and targets to drive actionable insights for the hospitality industry.
 
 **Data Overview**
@@ -46,7 +46,7 @@ Cases where multiple aspects were associated with a single opinion.
 Scenarios where multiple aspects corresponded to multiple opinions.
 These insights contribute to understanding the complex feedback customers provide in reviews, making this dataset valuable for improving customer satisfaction strategies in the hospitality industry.
 
-Citation
+**Citation**
 If you use this dataset or the scripts in your research, please cite:
 To be determined
 
