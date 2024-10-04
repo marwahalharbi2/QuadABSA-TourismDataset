@@ -34,21 +34,20 @@ Lounge (1.0%)
 Reservations (0.3%)
 In terms of sentiment distribution:
 
-Negative sentiment accounts for 48.1%.
-Positive sentiment makes up 41.8%.
-Neutral sentiment constitutes 10.1%.
+- Negative sentiment accounts for 48.1%.
+- Positive sentiment makes up 41.8%.
+- Neutral sentiment constitutes 10.1%.
 
 **Notable Observations** 
 Several unique patterns were observed during the annotation process:
-
-Instances where a single aspect was linked to a single opinion.
-Cases where multiple aspects were associated with a single opinion.
-Scenarios where multiple aspects corresponded to multiple opinions.
-These insights contribute to understanding the complex feedback customers provide in reviews, making this dataset valuable for improving customer satisfaction strategies in the hospitality industry.
+- Instances where a single aspect was linked to a single opinion.
+- Cases where multiple aspects were associated with a single opinion.
+- Scenarios where multiple aspects corresponded to multiple opinions.
+- These insights contribute to understanding the complex feedback customers provide in reviews, making this dataset valuable for improving customer satisfaction strategies in the hospitality industry.
 
 **Citation**
 If you use this dataset or the scripts in your research, please cite:
-To be determined
+*To be determined*
 
 Contact
 For further inquiries or collaboration, please contact Marwah Alharbi at [Marwah.Alharbi@live.vu.edu.au OR MarwahAlharbi@gmail.com].
