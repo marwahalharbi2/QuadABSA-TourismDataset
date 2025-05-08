@@ -55,7 +55,22 @@ Several unique patterns were observed during the annotation process:
 **Citation**
 
 If you use this dataset or the scripts in your research, please cite:
-*To be determined*
+
+Alharbi, Marwah, Jiao Yin, Yuan Miao, and Jinli Cao. "From Data to Insights: Constructing and Evaluating a Hospitality Dataset for Quadruple Aspect-Based Sentiment Analysis." Proceedings of the International Conference on Web Information Systems Engineering (WISE 2024), pp. 102–113, Singapore: Springer Nature Singapore, November 2024.
+
+Or in BibTeX format:
+
+@inproceedings{alharbi2024data,
+  title={From Data to Insights: Constructing and Evaluating a Hospitality Dataset for Quadruple Aspect-Based Sentiment Analysis},
+  author={Alharbi, Marwah and Yin, Jiao and Miao, Yuan and Cao, Jinli},
+  booktitle={Proceedings of the International Conference on Web Information Systems Engineering (WISE 2024)},
+  pages={102--113},
+  year={2024},
+  organization={Springer},
+  address={Singapore},
+  publisher={Springer Nature Singapore}
+}
+
 
 **Contact**
 
