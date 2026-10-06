@@ -1,2 +1,3 @@
-This list will contacin all the new entries for the dataset
-25/10/2024: 240 reviews | 1041 aspects 
+This list contains all the new entries and versions of the dataset.
+25/10/2024: 240 reviews | 1041 aspects (interim export, now in archived/)
+06/10/2026: v1.1 released in "Data V1.1/" - 231 reviews | 1000 quadruples, corrected; see Data V1.1/CHANGELOG.md. v1.0 frozen in "Data V1.0/" (git tag v1.0).
