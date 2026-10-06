@@ -6,10 +6,10 @@ This repository contains data and scripts used in the study of quadruple aspect-
 
 This dataset is versioned. Corrections and additions are released as a new version in a new folder. Earlier versions are never edited, so any result computed on them can still be reproduced. Each version is also marked with a git tag (see the repository's *Releases* / *Tags*).
 
-| Version | Folder | Reviews | Quadruples | Status | Used in |
+| Version | Folder | Reviews | Quadruples | Status | DOI (Zenodo) |
 |---|---|---:|---:|---|---|
-| v1.0 | `Data V1.0/` | 231 | 1,000 | Frozen | Alharbi et al., WISE 2024 |
-| v1.1 | `Data V1.1/` | 231 | 1,000 | **Current, recommended** | Ongoing PhD work |
+| v1.0 | `Data V1.0/` | 231 | 1,000 | Frozen; used in Alharbi et al., WISE 2024 | [10.5281/zenodo.23185974](https://doi.org/10.5281/zenodo.23185974) |
+| v1.1 | `Data V1.1/` | 231 | 1,000 | **Current, recommended** | [10.5281/zenodo.23185976](https://doi.org/10.5281/zenodo.23185976) |
 | — | `archived/` | 240 | 1,040 | Archived interim export (25/10/2024) | — |
 
 - **New work should use v1.1.** It corrects annotation errors found in v1.0. Every change is listed by review ID in `Data V1.1/CHANGELOG.md`.
@@ -104,7 +104,23 @@ Several unique patterns were observed during the annotation process:
 
 **Citation**
 
-If you use this dataset or the scripts in your research, please cite the paper below and state which dataset version you used:
+If you use this dataset or the scripts in your research, please cite **both** the paper that introduced the dataset and the dataset version you used. GitHub's **"Cite this repository"** button (from `CITATION.cff`) gives these in APA and BibTeX.
+
+*Dataset version*. Use the DOI for the version you worked with:
+
+- v1.1: Alharbi, Marwah. *QuadABSA-Tourism: Saudi Hospitality Quad-ABSA Dataset* (v1.1). Zenodo, 2026. https://doi.org/10.5281/zenodo.23185976
+- v1.0: Alharbi, Marwah. *QuadABSA-Tourism: Saudi Hospitality Quad-ABSA Dataset* (v1.0). Zenodo, 2024. https://doi.org/10.5281/zenodo.23185974
+
+@dataset{alharbi_quadabsa_tourism_v1_1,
+  author={Alharbi, Marwah},
+  title={QuadABSA-Tourism: Saudi Hospitality Quad-ABSA Dataset},
+  version={v1.1},
+  publisher={Zenodo},
+  year={2026},
+  doi={10.5281/zenodo.23185976}
+}
+
+*Paper*:
 
 Alharbi, Marwah, Jiao Yin, Yuan Miao, and Jinli Cao. "From Data to Insights: Constructing and Evaluating a Hospitality Dataset for Quadruple Aspect-Based Sentiment Analysis." Proceedings of the International Conference on Web Information Systems Engineering (WISE 2024), pp. 102–113, Singapore: Springer Nature Singapore, November 2024.
 
@@ -118,7 +134,8 @@ Or in BibTeX format:
   year={2024},
   organization={Springer},
   address={Singapore},
-  publisher={Springer Nature Singapore}
+  publisher={Springer Nature Singapore},
+  doi={10.1007/978-981-96-0579-8_8}
 }
 
 

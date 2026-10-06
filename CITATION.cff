@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the WISE 2024 paper and state which dataset version you used."
+title: "QuadABSA-Tourism: Saudi Hospitality Quad-ABSA Dataset"
+type: dataset
+version: "1.1"
+doi: 10.5281/zenodo.23185976
+date-released: 2026-10-06
+license: CC-BY-4.0
+repository-code: "https://github.com/marwahalharbi2/QuadABSA-TourismDataset"
+authors:
+  - family-names: Alharbi
+    given-names: Marwah
+    affiliation: Victoria University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23185976
+    description: "Dataset v1.1 (corrected, recommended)"
+  - type: doi
+    value: 10.5281/zenodo.23185974
+    description: "Dataset v1.0 (as used in WISE 2024)"
+preferred-citation:
+  type: conference-paper
+  title: "From Data to Insights: Constructing and Evaluating a Hospitality Dataset for Quadruple Aspect-Based Sentiment Analysis"
+  authors:
+    - family-names: Alharbi
+      given-names: Marwah
+    - family-names: Yin
+      given-names: Jiao
+    - family-names: Miao
+      given-names: Yuan
+    - family-names: Cao
+      given-names: Jinli
+  collection-title: "Web Information Systems Engineering – WISE 2024"
+  conference:
+    name: "International Conference on Web Information Systems Engineering (WISE 2024)"
+  publisher:
+    name: "Springer Nature Singapore"
+  doi: 10.1007/978-981-96-0579-8_8
+  start: 102
+  end: 113
+  year: 2024
